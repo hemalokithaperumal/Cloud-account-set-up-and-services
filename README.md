@@ -8,7 +8,7 @@ Reg no: 212223110014
 # AIM
 To create a cloud account in Microsoft Azure and to explore all of its services.
 
-# Procedure
+# Procedure 
 
 # Step 1: Go to the Azure Website
 
